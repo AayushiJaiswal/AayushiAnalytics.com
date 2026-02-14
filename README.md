@@ -85,7 +85,7 @@ export const EMAILJS_PUBLIC_KEY = 'your_public_key';
 ### Vercel Deployment
 
 1. Push this project to a GitHub repository.
-2. Go to [Vercel](https://vercel.com/) and import your GitHub repo.
+2. Go to [Vercel](https://aayushi-analytics-com.vercel.app/) and import your GitHub repo.
 3. Vercel will auto-detect **Vite** and use:
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
